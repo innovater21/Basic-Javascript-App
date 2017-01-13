@@ -1,4 +1,3 @@
-# Basic-Javascript-App
+## ES6 Tutorial
 
-It is a mortgage calculator app written using ES6 notations.
-
+Start the tutorial [here](http://ccoenraets.github.io/es6-tutorial).
